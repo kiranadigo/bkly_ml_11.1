@@ -32,7 +32,7 @@ I trained several different models with different ML techniques:
 6. XgBoost
 7. LGBM
 
-![image](./images/modelperf.png)
+![image](./images/model_perf.png)
 
 I went out on a limb to try XgBoost and LightGBM (which is Microsoft's implementation of gradient boosting), and was pleasantly suprised by the great prediction performance of these ensemble models compared to the standard models. LightGBM had a R2 score on the testing dataset of 94%. 
 
